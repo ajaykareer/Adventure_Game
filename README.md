@@ -25,7 +25,7 @@ To play the game, you’ll need:
 1. Clone or download the project to your local machine.
    
    ```bash
-   git clone https://github.com/ajaykareer/Adventure-Game.git
+   git clone https://github.com/ajaykareer/Adventure_Game.git
 
 2. Navigate to the project directory.
     cd Adventure-Game
